@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:46:59.934Z",
+  "generated_at": "2026-10-04T15:37:57.489Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -235,6 +235,19 @@
       "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
       "first_solved_at": "2026-10-04T09:46:57.863Z",
       "last_pushed_at": "2026-10-04T09:46:57.863Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:184": {
+      "kind": "problem",
+      "id": "184",
+      "title": "Empirical Probability Mass Function (PMF)",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/184",
+      "path": "problems/0184-empirical-probability-mass-function-pmf",
+      "first_solved_at": "2026-10-04T15:37:57.508Z",
+      "last_pushed_at": "2026-10-04T15:37:57.508Z",
       "language": "python",
       "lines": 15
     }
